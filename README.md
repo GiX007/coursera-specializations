@@ -21,7 +21,7 @@ Much of my journey started with **Andrew Ng’s courses**, which got me interest
 ---
 
 ## Technologies Used
-- Python, Jupyter Notebook, Google Colab
+- Python, Jupyter Notebook, Google Colab, MATLAB/Octave
 - TensorFlow, Keras, PyTorch (minor)  
 - NumPy, Pandas, Scikit-learn, Matplotlib  
 
